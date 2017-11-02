@@ -1,0 +1,12 @@
+c:\users\usuario\documents\visual studio 2017\Projects\Examen\Examen\bin\Debug\Examen.exe.config
+c:\users\usuario\documents\visual studio 2017\Projects\Examen\Examen\bin\Debug\Examen.exe
+c:\users\usuario\documents\visual studio 2017\Projects\Examen\Examen\bin\Debug\Examen.pdb
+c:\users\usuario\documents\visual studio 2017\Projects\Examen\Examen\obj\Debug\Examen.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2017\Projects\Examen\Examen\obj\Debug\Examen.Form1.resources
+c:\users\usuario\documents\visual studio 2017\Projects\Examen\Examen\obj\Debug\Examen.Properties.Resources.resources
+c:\users\usuario\documents\visual studio 2017\Projects\Examen\Examen\obj\Debug\Examen.csproj.GenerateResource.Cache
+c:\users\usuario\documents\visual studio 2017\Projects\Examen\Examen\obj\Debug\Examen.exe
+c:\users\usuario\documents\visual studio 2017\Projects\Examen\Examen\obj\Debug\Examen.pdb
+c:\users\usuario\documents\visual studio 2017\Projects\Examen\Examen\obj\Debug\Examen.Registro.resources
+c:\users\usuario\documents\visual studio 2017\Projects\Examen\Examen\obj\Debug\Examen.FrmArticulo.resources
+c:\users\usuario\documents\visual studio 2017\Projects\Examen\Examen\obj\Debug\Examen.Principal.resources
